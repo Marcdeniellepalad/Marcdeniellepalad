@@ -12,7 +12,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Arduino (Modified C++)</b>
-  - [Q-Learning Algorithm for an Arduino-Based Robotic Exoskeleton](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Q-Learning Algorithm for an Arduino-Based Robotic Exoskeleton](https://github.com/Marcdeniellepalad/Q-learning-Algorithm-for-an-Arduino-Based-Exoskeleton)
   - [Solar-Powered Charging Station Through Scrap Paper Exchange](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
