@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marc! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Future Software Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">BLANK</a></h1>
+<h1>Hi, I'm Marc! <br/><a href="[https://github.com/joshmadakor1](https://github.com/Marcdeniellepalad/Marcdeniellepalad)">Programmer</a>, <a href="https://www.linkedin.com/in/marc-denielle-palad-107059396/">Future Software Engineer</a>,
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
