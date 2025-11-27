@@ -19,9 +19,9 @@
 [<img align="left" alt="Marc Denielle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Marc Denielle | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[google]: https://twitter.com/joshmadakor
-[facebook]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/marc-denielle-palad-107059396/
+[facebook]: https://www.instagram.com/joshmadakor/
+[google]: https://twitter.com/joshmadakor
 
 
 
