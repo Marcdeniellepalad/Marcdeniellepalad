@@ -9,8 +9,6 @@
 - <b>C Language</b>
   - [Simple Menu (Using Do While Loop)](https:)
   - [Simple User Login](https://github.com/Marcdeniellepalad/Simple-User-Login-C-Language-)
-  - 
-- <b>CERTIFICATIONS</b>
 
 <h2> 🤳 Connect with me:</h2>
 
