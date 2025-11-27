@@ -16,7 +16,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="MarcDenielle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]: https://linkedin.com/in/joshmadakor
-
 [<img align="left" alt="MarcDenielle | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Facebook]: https://www.instagram.com/joshmadakor/
 
 
