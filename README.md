@@ -13,6 +13,16 @@
   - 
 - <b>CERTIFICATIONS</b>
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Marc Denielle | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][google]
+[<img align="left" alt="Marc Denielle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Marc Denielle | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[google]: https://twitter.com/joshmadakor
+[facebook]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://www.linkedin.com/in/marc-denielle-palad-107059396/
+
 
 
 
