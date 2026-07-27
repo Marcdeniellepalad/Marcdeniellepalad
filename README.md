@@ -17,8 +17,6 @@
 [<img align="left" alt="Marc Denielle | Instagram" width="22px" src="https://images.seeklogo.com/logo-png/28/1/instagram-glyph-logo-png_seeklogo-286192.png" />][facebook]
 
 [linkedin]: https://www.linkedin.com/in/marc-denielle-palad-107059396/
-[facebook]: 
-[google]: 
 
 
 
