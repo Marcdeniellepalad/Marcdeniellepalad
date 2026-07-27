@@ -12,9 +12,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Marc Denielle | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][google]
-[<img align="left" alt="Marc Denielle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Marc Denielle | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Marc Denielle | Twitter" width="22px" src="putlinkhere" />][google]
+[<img align="left" alt="Marc Denielle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marc-denielle-palad-107059396/" />][linkedin]
+[<img align="left" alt="Marc Denielle | Instagram" width="22px" src="putlinkhere" />][facebook]
 
 [linkedin]: https://www.linkedin.com/in/marc-denielle-palad-107059396/
 [facebook]: https://www.instagram.com/joshmadakor/
